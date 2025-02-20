@@ -5,3 +5,4 @@
 * olive oil
 * salt
 * carrot 
+* pita bread
